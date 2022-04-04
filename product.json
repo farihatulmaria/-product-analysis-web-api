@@ -3,36 +3,42 @@
     "id": 1,
     "img": "https://cdn.pixabay.com/photo/2022/03/21/13/54/peach-blossom-7083263_960_720.jpg",
     "name": "Adeline M. Merlino",
-    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!"
+    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!",
+    "ratings": 5.0
   },
   {
     "id": 2,
     "img": "https://cdn.pixabay.com/photo/2022/03/21/13/54/peach-blossom-7083263_960_720.jpg",
     "name": "Casey F. Frierson",
-    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!"
+    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!",
+    "ratings": 5.0
   },
   {
     "id": 3,
     "img": "https://cdn.pixabay.com/photo/2022/03/21/13/54/peach-blossom-7083263_960_720.jpg",
     "name": "Lorina J. Myers",
-    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!"
+    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!",
+    "ratings": 5.0
   },
   {
     "id": 4,
     "img": "https://cdn.pixabay.com/photo/2022/03/21/13/54/peach-blossom-7083263_960_720.jpg",
     "name": "Garrett L. Wilcox",
-    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!"
+    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!",
+    "ratings": 5.0
   },
   {
     "id": 5,
     "img": "https://cdn.pixabay.com/photo/2022/03/21/13/54/peach-blossom-7083263_960_720.jpg",
     "name": "Edward D. Cottrell",
-    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!"
+    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!",
+    "ratings": 5.0
   },
   {
     "id": 6,
     "img": "https://cdn.pixabay.com/photo/2022/03/21/13/54/peach-blossom-7083263_960_720.jpg",
     "name": "Susan R. Borrelli",
-    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!"
+    "desc": "Lorem, ipsum dolor sit met e hi i am okay edited. At quas commodi suscipit veniam velit ipsam nulla accusamus in, perferendis illo iusto qui dicta a itaque expedita, perspiciatis minus officia tempore!",
+    "ratings": 5.0
   }
 ]
